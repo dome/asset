@@ -33,6 +33,14 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/Coreinu.jpg"
-    }  
+    },
+      {
+            "name": "wTCH Token",
+            "symbol": "WTCH",
+            "address": "0x67a11f6Ea5352F58FEbF580F7E84E33405638c1C,
+            "chainId": 7,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/Coreinu.jpg"
+    }
   ]
 }
