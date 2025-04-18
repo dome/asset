@@ -25,6 +25,14 @@
             "chainId": 7,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/Coreinu.jpg"
-    } 
+    },
+      {
+            "name": "USDOG Token",
+            "symbol": "USDOG",
+            "address": "0xddddddd48b83ec002970069fa6b7d332339263e7",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/Coreinu.jpg"
+    }  
   ]
 }
